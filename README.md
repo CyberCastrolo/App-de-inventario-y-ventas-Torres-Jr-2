@@ -1,0 +1,2 @@
+# App-de-inventario-y-ventas-Torres-Jr-2
+📱 App móvil de inventario y ventas construida con Flutter/Dart y Firebase  🔥 Características: - Firebase Authentication - Sistema de roles (Admin/Empleado) - Firestore Database - Gestión en tiempo real - CRUD completo de productos, categorías y precios - Control de stock e inventario - Punto de venta para empleados - Panel administrativo completo  🛠️ Tecnologías: Flutter, Dart, Firebase Auth, Firestore
