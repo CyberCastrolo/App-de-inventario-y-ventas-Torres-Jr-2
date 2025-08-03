@@ -47,7 +47,7 @@ android/app/google-services.json
 app/build.gradle.kts
 ios/Runner/GoogleService-Info.plist
 firebase.json
-torresjr/lib/firebase_options.dart
+**/firebase_options.dart
 android/key.properties
 *.keystore
 
